@@ -97,6 +97,14 @@ def time_stats(df):
     print('-'*40)
 
 def five_rows_displays(df):
+    """
+    Displays five rows from the dataframe receive into a argument.
+
+    Args:
+        (pandas df) df - Pandas DataFrame containing city data filtered by month and day
+    Returns:
+        Five rows displayed
+    """
     view_data = input("Would you like to view 5 rows of individual trip data? Enter yes or no?")
     start_loc = 0
     while (view_data=='yes'):

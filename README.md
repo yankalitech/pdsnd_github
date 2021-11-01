@@ -1,5 +1,15 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
-### Docmentation
+### Docmentation 
 
 New documentation branch is created
+
+### Project structure
+This project contain the 
+bikeshare_2.py file and the data file
+
+### Run project 
+
+execute commande line 
+>**$ python bikeshare_2.py**
+
